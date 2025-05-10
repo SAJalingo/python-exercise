@@ -1,4 +1,4 @@
-score = 0
+score = 1004
 if score >= 90 and score <= 100:
     print('A')
 elif score >= 80 and score <= 89:
